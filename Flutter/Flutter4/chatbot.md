@@ -42,8 +42,9 @@ dify로 열심히 딥러닝에 특화된 챗봇을 만들었지만... (API가 �
 (열심히 만들었지만 연동이 안되는 챗봇의 workflow🥲)
 
 ## 실행 동영상 
+<p align="center">
 ![fluttershortversion-ezgif com-resize](https://github.com/user-attachments/assets/cb0836e0-e8f2-4504-ab6c-594ce6262e1d)
-
+ </p>
 
 ## 회고: 
 Dify를 연동 못시킨게 아쉽다. 그래도 재밌었다. 이전 대화내용을 저장하고 목록을 생성하는 등의 더 다양한 기능을 추가해보고 싶다. 
