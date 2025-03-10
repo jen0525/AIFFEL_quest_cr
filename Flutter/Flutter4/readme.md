@@ -1,7 +1,7 @@
 # ♥️딥러닝 학습 도우미 챗봇 설계하기♥️
 
 ## 앱 정보
- - 앱 이름: DeapLearning ChatBot
+ - 앱 이름: **DeapLearning ChatBot**
  - 취지: 딥러닝 학습 도우미 챗봇은 인공지능(A))와 자연어 기술을 활용하여 사용자의 딥러닝 학습을 지원하는 인터랙티브 챗봇입니다. 
  - 계획: 케러스 창시자에게 배우는 딥러닝 책의 pdf를 가지고 있었기에 이를 기반으로 응답하는 ( 딥러닝 도메인 지식에 특화된) RAG 챗봇을 만들어 Flutter UI를 구현 하는 것. 
  - 타겟: 딥러닝 학습자 
@@ -27,7 +27,8 @@ splash_screen.dart: 앱을 켰을때 가장 먼저 등장하는 화면으로 로
 intro_page.dart, 챗봇에 대한 설명이 적혀진 페이지
 chat_screen.dart 동적인 대화 인터페이스 
 
-## 변경사항 : dify로 열심히 딥러닝에 특화된 챗봇을 만들었지만... (API가 연동이 되지 않는 이슈로) -> ⭐️ Gemini를 연동시킴 ⭐️
+## 변경사항 : 
+dify로 열심히 딥러닝에 특화된 챗봇을 만들었지만... (API가 연동이 되지 않는 이슈로) -> ⭐️ Gemini를 연동시킴 ⭐️
 <img width="1417" alt="image" src="https://github.com/user-attachments/assets/b420c49f-d405-46d5-a024-52fce3de5e7c" />
 (열심히 만들었지만 연동이 안되는 챗봇의 workflow🥲)
 
