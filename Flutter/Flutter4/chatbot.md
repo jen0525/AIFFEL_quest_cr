@@ -14,16 +14,20 @@
 </p>
 
 ## 앱 와이어프레임 (사용 툴 : 굿노트)
+<p align="center">
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/767ba61e-4449-488e-bb30-96f94a52821a" />
+</p>
 
 ## 프로토타이핑 (사용 툴 : Marvel, Figma) 
+<p align="center">
 <img width="873" alt="image" src="https://github.com/user-attachments/assets/cd1e7483-cb55-4c75-b0a3-57ddf9f021e4" />
+ </p>
 https://marvelapp.com/prototype/fj8gcd1/screen/96814110
 
 ## 구성 
-lib/
+<p align="center">
 <img width="239" alt="image" src="https://github.com/user-attachments/assets/7ed851c2-689d-4675-97c3-d6c3f5a85fc9" />
-
+</p>
 
 ## 페이지 구현: 
 splash_screen.dart: 앱을 켰을때 가장 먼저 등장하는 화면으로 로고와 챗봇의 이름을 가장 먼저 보여줌. 
@@ -32,7 +36,9 @@ chat_screen.dart 동적인 대화 인터페이스
 
 ## 변경사항 : 
 dify로 열심히 딥러닝에 특화된 챗봇을 만들었지만... (API가 연동이 되지 않는 이슈로) -> ⭐️ Gemini를 연동시킴 ⭐️
+<p align="center">
 <img width="1417" alt="image" src="https://github.com/user-attachments/assets/b420c49f-d405-46d5-a024-52fce3de5e7c" />
+ </p>
 (열심히 만들었지만 연동이 안되는 챗봇의 workflow🥲)
 
 ## 실행 동영상 
