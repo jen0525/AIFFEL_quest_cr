@@ -7,7 +7,8 @@
  - 타겟: 딥러닝 학습자 
  - 예상 흐름: 사용자가 질문을 입력하면 → <dify>RAG 시스템이 책(도메인 자료)에서 관련 정보 검색 → GPT가 요약 및 답변 생성 → 사용자에게 표시
 
-## 앱 구조도 = Chatgpt와 동일하게 만드는 것을 목적으로 함. 
+## 앱 구조도 
+= Chatgpt와 유사하게 만드는 것을 목적으로 함. 
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/8cdd1b4d-f2bd-4b74-8870-f4186ae85569" />
 
 ## 앱 와이어프레임 (사용 툴 : 굿노트)
