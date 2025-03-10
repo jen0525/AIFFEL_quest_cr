@@ -9,7 +9,9 @@
 
 ## 앱 구조도 
 = Chatgpt와 유사하게 만드는 것을 목적으로 함. 
+<p align="center">
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/8cdd1b4d-f2bd-4b74-8870-f4186ae85569" />
+</p>
 
 ## 앱 와이어프레임 (사용 툴 : 굿노트)
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/767ba61e-4449-488e-bb30-96f94a52821a" />
