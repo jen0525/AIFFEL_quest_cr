@@ -1,11 +1,11 @@
 # ♥️딥러닝 학습 도우미 챗봇 설계하기♥️
 
 ## 앱 정보
-## 앱 이름: DeapLearning ChatBot
-## 취지: 딥러닝 학습 도우미 챗봇은 인공지능(A))와 자연어 기술을 활용하여 사용자의 딥러닝 학습을 지원하는 인터랙티브 챗봇입니다. 
-## 계획: 케러스 창시자에게 배우는 딥러닝 책의 pdf를 가지고 있었기에 이를 기반으로 응답하는 ( 딥러닝 도메인 지식에 특화된) RAG 챗봇을 만들어 Flutter UI를 구현 하는 것. 
-## 타겟: 딥러닝 학습자 
-## 예상 흐름: 사용자가 질문을 입력하면 → <dify>RAG 시스템이 책(도메인 자료)에서 관련 정보 검색 → GPT가 요약 및 답변 생성 → 사용자에게 표시
+ - 앱 이름: DeapLearning ChatBot
+ - 취지: 딥러닝 학습 도우미 챗봇은 인공지능(A))와 자연어 기술을 활용하여 사용자의 딥러닝 학습을 지원하는 인터랙티브 챗봇입니다. 
+ - 계획: 케러스 창시자에게 배우는 딥러닝 책의 pdf를 가지고 있었기에 이를 기반으로 응답하는 ( 딥러닝 도메인 지식에 특화된) RAG 챗봇을 만들어 Flutter UI를 구현 하는 것. 
+ - 타겟: 딥러닝 학습자 
+ - 예상 흐름: 사용자가 질문을 입력하면 → <dify>RAG 시스템이 책(도메인 자료)에서 관련 정보 검색 → GPT가 요약 및 답변 생성 → 사용자에게 표시
 
 ## 앱 구조도 = Chatgpt와 동일하게 만드는 것을 목적으로 함. 
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/8cdd1b4d-f2bd-4b74-8870-f4186ae85569" />
@@ -19,17 +19,8 @@ https://marvelapp.com/prototype/fj8gcd1/screen/96814110
 
 ## 구성 
 lib/
-├── main.dart
-├─ pages/
-│ ├─ splash_screen.dart
-│ ├─ intro_page.dart
-│ └─ chat_screen.dart
-├─ providers/
-│  └─ chat_provider.dart
-│  └─ theme_probider.dart
-└─ assets/
-   ├─ logo.png
-   └─ intro.png
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/7ed851c2-689d-4675-97c3-d6c3f5a85fc9" />
+
 
 ## 페이지 구현: 
 splash_screen.dart: 앱을 켰을때 가장 먼저 등장하는 화면으로 로고와 챗봇의 이름을 가장 먼저 보여줌. 
