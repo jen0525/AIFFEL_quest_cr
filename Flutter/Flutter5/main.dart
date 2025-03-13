@@ -81,7 +81,7 @@ class _JellyfishClassifierState extends State<JellyfishClassifier> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Jellyfish Classifier"),
-        leading: const Icon(Icons.blur_circular), // 해파리 아이콘
+        leading: const Icon(Icons.waves), 
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
