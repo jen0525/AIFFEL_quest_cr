@@ -3,7 +3,7 @@
 <img width="347" alt="image" src="https://github.com/user-attachments/assets/5de4bc58-a9f5-44b8-809e-3749c39f50c2" />
 
 ## AI 뉴스 앱은...<br> 
-**Google News, YouTube, Reddit 등 다양한 소스를 통해 최신 AI 관련 뉴스를 확인하고, YouTube 영상을 간편하게 시청할 수 있는 Flutter 기반의 애플리케이션입니다. 이 앱은 사용자가 설정한 검색어에 맞는 뉴스, 소식 및 동영상을 YouTube API를 통해 가져오고, 이를 UI에 표시하여 사용자가 원하는 정보를 빠르게 찾을 수 있도록 돕습니다. 이를 통해 사용자는 매일 지식을 업데이트 할 수 있습니다. **
+*Google News, YouTube, Reddit 등 다양한 소스를 통해 최신 AI 관련 뉴스를 확인하고, YouTube 영상을 간편하게 시청할 수 있는 Flutter 기반의 애플리케이션입니다. 이 앱은 사용자가 설정한 검색어에 맞는 뉴스, 소식 및 동영상을 YouTube API를 통해 가져오고, 이를 UI에 표시하여 사용자가 원하는 정보를 빠르게 찾을 수 있도록 돕습니다. 이를 통해 사용자는 매일 지식을 업데이트 할 수 있습니다. *
 
 # 주요 기능 <br> 
 * YouTube 영상: 사용자가 입력한 검색어에 맞는 최신 YouTube 영상을 불러와 리스트 형태로 제공합니다.
