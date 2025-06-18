@@ -1,6 +1,6 @@
 # Project Structure
 
-├── Exploration
+├── Exploration <br>
 │   ├── Ex1
 │   │   ├── Ex1.ipynb
 │   │   └── README.md
